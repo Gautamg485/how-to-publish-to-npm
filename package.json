@@ -1,0 +1,14 @@
+{
+  "name": "gowtham-initial",
+  "version": "1.0.24",
+  "description": "gowtham initial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "bin": {
+    "myapp": "index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

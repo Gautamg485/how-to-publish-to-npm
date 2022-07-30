@@ -1,0 +1,1 @@
+npx gowtham-initial@latest <name>
